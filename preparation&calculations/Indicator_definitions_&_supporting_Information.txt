@@ -1,0 +1,127 @@
+Indicator Definitions and Supporting Information
+
+Public Health England
+<https://www.gov.uk/government/organisations/public-health-england>
+
+Indicator ID: 92377
+
+Indicator: 
+Total number of prescribed antibiotic items per STAR-PU by quarter per Clinical Commissioning Group in England (since 4/2017).
+
+Indicator full name: 
+Twelve month rolling total number of prescribed antibiotic items per STAR-PU by Clinical Commissioning Group (CCG)
+within England. 
+
+Rationale:
+In order to fully appreciate antimicrobial prescribing, it is necessary
+to take into consideration demographic characteristics of the population
+as it may influence levels of prescribing. For that reason STAR-PU data
+is adjusted for both age and sex.
+
+STAR-PU is an indirectly standardised ratio that removes confounding
+effects of age and sex in the comparison of prescribing between
+different geographical areas. This method allows for more accurate
+comparison of prescribing. In this specific indicator, a higher value is
+associated with increased prescribing.
+
+Policy:
+The consumption of antibiotics is a major driver for the
+development of antibiotic resistance in bacteria. AMR is a serious and
+growing global public health concern with implications for every
+Government and the populations they serve. The emergence and spread of
+infections caused by bacteria that are resistant to treatment by current
+antibiotics strikes at the heart of modern medical and veterinary
+practice. The use of antibiotics is essential for saving lives in
+conditions such as sepsis and without effective antibiotics.
+
+
+Definition
+
+STAR-PU are weighted units to allow comparisons adjusting for the age
+and sex of patients distribution of each practice. Quarters are by
+calendar year. The weightings are derived from an anonymised random
+sample of approximately 800,000 patients registered with about 90
+General Practices. They are calculated by extracting and analysing the
+cost or volume of prescribing by specific age groups and gender.
+
+Prescribing data are extracted as a quarterly snapshot in time from the primary care
+provider payments system maintained by NHS Digital.
+
+Primary care provider data are released in single year of age (SYOA) and
+5-year age bands, both of which finish at 95+, split by gender and
+aggregated (See caveats).
+
+Definition of numerator:
+Total number of antibiotic items prescribed in practices located within
+the area. An item is an antibiotic (from British National Formulary
+Section 5.1) that is prescribed in a primary care setting
+
+A prescription item refers to a single item prescribed by a prescriber
+on a prescription form (known as an FP10). If a prescription form
+includes three medicines it is counted as three prescription items. The
+number of items is a measure of how often a prescriber has decided to
+write a prescription. It is often used when we wish to look at
+prescriber behaviour as every prescription is an opportunity to change
+treatment. For vaccinations and acute treatment (for example, a short
+course of antibiotics) the item is also a reasonable measure of the
+number of courses of treatment.
+
+GP practice counts of items are aggregated to CCG
+
+Source of numerator: 
+Antimicrobial prescribing data for STAR-PU is
+provided by NHS BSA and is originally sourced from NHS Digital.
+
+Definition of denominator: 
+STAR-PU are weighted units to allow comparisons adjusting for the age
+and sex of patients distribution of each practice. 
+
+Source of denominator: 
+STAR-PU data is downloaded in report form from NHS Business
+Service Authority (NHS BSA). STAR-PU data is supplied from NHS Digital
+to NHS BSA as age & sex adjusted prescribing data. For more information
+please visit the NHS Digital
+<http://content.digital.nhs.uk/media/9348/Prescribing-measures-and-their-application-v6/pdf/Prescribing_Measures_6th_edition.pdf>website.
+
+The data for the indicator is based on four 3-month rolling figures that
+are used to generate a rolling 12 month data point. This data is sourced
+from NHS
+Digital.<http://www.hscic.gov.uk/media/9348/Prescribing-measures-and-their-application-v6/pdf/Prescribing_Measures_6th_edition.pdf>
+
+Value type: Indirectly standardised ratio
+Value: Numerator is divided by the denominator (items divided by
+STAR-PU)
+Unit: per STAR-PU
+Age: All ages
+Sex: Persons
+Year type: Calendar
+
+Benchmarking method: No comparison
+Benchmarking significance level: n/a
+Confidence interval method: No confidence intervals available
+Confidence interval details: Confidence intervals not required as
+population value is known.
+Caveats: STAR-PU data is in appropriate to use at any smaller level than total
+prescribing. I.e. individual drug class level.
+
+STAR-PU data only includes antibiotics that are administered orally.
+Orally administered derivative of BNF 5.1 codes account for more than
+99.8% of all prescribed items.
+
+Missing primary care data can occur for various reasons. The provider
+may have merged with another provider, changed name or failed to meet
+the minimum number to conform with NHS Digital rules on confidentiality.
+
+Drugs are only included in the numerator if they have a British National
+Formulae (BNF) 5.1 code consistent with an anti-bacterial item.
+
+Figures will vary if compared to similar indicators at different
+geographical levels as they are separate and have different criteria for
+inclusion and exclusion.
+
+ All content is available under the Open Government Licence
+<http://www.nationalarchives.gov.uk/doc/open-government-licence>, except
+where otherwise stated
+
+© Crown Copyright
+

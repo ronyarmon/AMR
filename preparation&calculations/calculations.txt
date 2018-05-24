@@ -1,0 +1,19 @@
+This study uses twelve month rolling total number of prescribed antibiotic items to assess examine differences in prescribing levels between 2014 and 2017. The prescribing values are weighed not only for the population size at each CCGs but by their composition in terms of age and gender. Thus, prescribing in practice catering to an older population, who is more likely to be affected by infectious diseases, is weighed as treating more patients (PUs=Prescription Units) then a practice catering to younger population. 
+
+The indicator selected for prescribing was the twelve month rolling total number of prescribed antibiotic items for each CCGs. Thus the data point for September 2017 for example, represents the total prescribing per STAR-PU patient between October 2016 and September 2017. In that way we can observe the general trend duringt the period under study to exclude seasonal fluctuations. 
+
+Reduction is calculated as the difference between minimum and maximum values for the period under study for each CCG, 
+calculated with Python pandas (.describe).
+
+Page 1: Reduction in Antibiotics prescription (2014-2017)
+Levels of reduction achived histogram depicts the distribution of the levels of reduction achived by all CCGs showing (Top left) that the most reduced their prescribing by upto 15%. This picture is mapped to individual CCGs (bottom left) with data for each made accessible via the scrollable list (bottom right). CCGs with highest reduction levels were charted for the dynamic of reduction in the period under study (Top right).
+
+Page 2: Items per Patient (STAR-PU, 2016-2017)
+Page 2 zooms on the most recent slice of the data showing how the levels of perscription compare against the early (left) and more ambitious (right) targets.   
+
+Source about STAR PU weighting:
+NHS, Prescribing Measures and their application, Seventh edition, March 2012
+Or the 6th edition referred to in indicator definitions: 
+<http://www.hscic.gov.uk/media/9348/Prescribing-measures-and-their-application-v6/pdf/Prescribing_Measures_6th_edition.pdf>
+
+
