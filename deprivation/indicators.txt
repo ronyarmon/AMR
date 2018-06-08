@@ -1,0 +1,42 @@
+-----------------------------------------------------------------------------
+Indicator: 92377
+Description:  Twelve month rolling total number of prescribed antibiotic items per STAR-PU by Clinical Commissioning Group (CCG) within England.
+Methodology:  Numerator is divided by the denominator (items divided by STAR-PU)
+Unit:  per STAR-PU
+Numerator:  Total number of antibiotic items prescribedin practices located within the area. An item is an antibiotic (from British National Formulary Section 5.1) that is prescribed in a primary care settingA prescription item refers to a single item prescribed by a prescriber on a prescription form (known as an FP10). If a prescription form includes three medicines it is counted as three prescription items. The number of items is a measure of how often a prescriber has decided to write a prescription. It is often used when we wish to look at prescriber behaviour as every prescription is an opportunity to change treatment. For vaccinations and acute treatment (for example, a short course of antibiotics) the item is also a reasonable measure of the number of courses of treatment.GP practice counts of items are aggregated to CCG
+Denominator:  STAR-PU are weighted units to allow comparisons adjusting for the age and sex of patients distribution of each practice.
+Production:  nan
+-----------------------------------------------------------------------------
+Indicator: 92350
+Description:  Twelve month rolling percentage of prescribed antibiotic items from cephalosporin, quinolone and co-amoxiclav class.
+Methodology:  The percentage of broad spectrum antibiotic in antibiotic prescribing. Total consumptionof cephalosporin, fluoroquinolone and co-amoxiclavantibiotics divided by the aggregated total of the sub set of antibiotic prescribing made up of BNF 5.1 category.
+Unit:  %
+Numerator:  Cephalosporin, fluoroquinolone and co-amoxiclav, are broad spectrum antimicrobials. These form an important category for prescribing surveillance.
+Denominator:  Prescribing data is supplied by NHS Digital and derived from a full British National Formulary (BNF Code). The BNF code details the full ATC code of the drug as well as specifying the derivative of the drug including administration route.N<a href="http://www.hscic.gov.uk/">umerator data isa sub set of the BNF 5.1 category. The full list of BNF formulae included can be found on the  https://apps.nhsbsa.nhs.uk/infosystems/welcome  website.
+Production:  Prescribing data is supplied to NHS Digital and downloaded monthly to PHE. The data is aggregated to produce both quarterly and annual levels of consumption.
+-----------------------------------------------------------------------------
+Indicator: 92165
+Description:  Total number of prescribed antibiotic items per 1000 resident individuals by quarter and CCG at the primary care level.
+Methodology:  Rate, antibiotic items per 1000 inhabitants per quarter. The numerator (itemsprescribed in a quarter)is divided by the denominator (population) then multiplied by 1000.
+Unit:  per 1000
+Numerator:  <span style="font-family: 'Arial','sans-serif'; font-size: 11pt;">Prescribing data is supplied by GP’s to HSCIC. Drug derivatives are supplied with full British National Formulary (BNF Code). The BNF code details the full ATC code of the drug as well as specifying the administration route. More information can be found <a href="http://www.bnf.org/"><span style="color: #0000ff;" color="#0000ff">http://www.bnf.org/<o:p></o:p>
+Denominator:  <span style="font-family: 'Arial','sans-serif';"><span style="font-size: medium;" size="3">The data accounted for all individuals that appeared on the most recent census. Data is adjusted each year to give midyear population estimates. The numbers are supplied by  https://www.ons.gov.uk/  at CCG level.
+Production:  Prescribing data is supplied to NHS Digital and downloaded monthly to PHE. The data is aggregated to produce both quarterly and annual levels of consumption.
+-----------------------------------------------------------------------------
+Indicator: 91904
+Description:  Quarterly total number of prescribed antibiotic items per Specific Therapeutic group Age-sex weightings Related Prescribing Units (STAR-PU) by Clinical Commissioning Group (CCG) within England.
+Methodology:  Numerator is divided by the denominator (items divided by STAR-PU)
+Unit:  Number of items prescribed
+Numerator:  Total number of antibiotic items prescribed in practices located within the area. An item is an antibiotic (from British National Formulary Section 5.1) that is prescribed in a primary care settingA prescription item refers to a single item prescribed by a prescriber on a prescription form (known as an FP10). If a prescription form includes three medicines it is counted as three prescription items. The number of items is a measure of how often a prescriber has decided to write a prescription. It is often used when we wish to look at prescriber behaviour as every prescription is an opportunity to change treatment. For vaccinations and acute treatment (for example, a short course of antibiotics) the item is also a reasonable measure of the number of courses of treatment.GP practice counts of items are aggregated to CCG
+Denominator:  STAR-PU are weighted units to allow comparisons adjusting for the age and sex of patients distribution of each practice.
+Production:  nan
+-----------------------------------------------------------------------------
+Indicator: 92167
+Description:  Percentage of cephalosporin, quinolone and co-amoxiclav class prescribed antibiotic items in relation to a sub set of the British National Formula (BNF) 5.1 category, by quarter.
+Methodology:  The percentage of broad spectrum antibiotic in antibiotic prescribing. Total consumption of cephalosporin, fluoroquinolone and co-amoxiclavantibiotics divided by the aggregated total of the sub set of antibiotic prescribing made up of BNF 5.1 category.
+Unit:  %
+Numerator:  Cephalosporin, fluoroquinolone and co-amoxiclav, are broad spectrum antimicrobials. These form an important category for prescribing surveillance.
+Denominator:  Prescribing data is supplied by NHS Digital and derived from a full British National Formulary (BNF Code). The BNF code details the full ATC code of the drug as well as specifying the derivative of the drug including administration route.N<a href="http://www.hscic.gov.uk/">umerator data isa sub set of the BNF 5.1 category. The full list of BNF formulae included can be found on the  https://apps.nhsbsa.nhs.uk/infosystems/welcome
+Production:  NHS Digital supply monthly prescribing data that is aggregated in to annual and quarterly totals.
+
+
