@@ -1,0 +1,7 @@
+Indicator: 92019
+Description:  Antibiotic Guardians per 100,000 population per calendar year by CCGs.
+Methodology:  The count of Antibiotic Guardians per CCG catchment area, as defined by valid half-postcodes, are devided by the ONS mid-year population estimates.
+Unit:  per 100,000
+Numerator:  Antibiotic Guardian pledgees in England.
+Denominator:  2014 mid-year estimates based on CCG boundaries
+Production:  Antibiotic Guardians submit half-postcodes during their signup. Valid English half-postcodes are matched to their CCG catchment area by calendar year. Population estimates are based on ONS mid-year estimates.
