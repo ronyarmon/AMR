@@ -23,5 +23,3 @@ http://nbviewer.jupyter.org/github/ronyarmon/AMR/blob/d0646dae16c43d84804fb8905b
 
 2. Numbers of antibiotic guardians per regions/deprivation deciles
 https://buff.ly/2t1nYj6
-
-Contact: r.armon@ucl.ac.uk
